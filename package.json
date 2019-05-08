@@ -1,0 +1,14 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {}
+}
