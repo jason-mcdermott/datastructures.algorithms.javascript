@@ -1,6 +1,6 @@
-var search = require('./algorithms/search/binarySearch');
+var mergeSort = require('./algorithms/sort/mergeSort');
 
-var numbers = [1,2,3,4,5,6,7,8,9];
+var numbers = [3, 5, 2, 9, 10, 8, 1, 4, 6, 7];
 
-console.log(search.recursiveSearch(numbers, 10));
+console.log(mergeSort(numbers));
 
